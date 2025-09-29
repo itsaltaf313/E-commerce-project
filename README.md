@@ -33,6 +33,7 @@ cd E-commerce-project
 pip install -r requrements.txt
 
 E-commerce database analysis
+all questions and answers
 Q1 you need to  calculate the monthly sales of the store and identify which month had the highest sales and which month had the lowest sales
 Ans=sales_by_month=data.groupby('order month')['Sales'].sum().reset_index()
 sales_by_month
