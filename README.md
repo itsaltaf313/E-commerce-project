@@ -89,9 +89,13 @@ homeoffice
 -Deploy the project online using Heroku or AWS
 
 👨‍💻 Author
-Altaf Shaikh– Aspiring Data Scientist & Python Developer  
-GitHub Repository(https://github.com/itsaltaf313/ecommerce-project) 
- LinkedIn=https://www.linkedin.com/in/altaf-shaikh-383811304
+
+Altaf Shaikh
+📧 Email: altafshaikh04740@gmail.com
+🌐 GitHub: itsaltaf313
+💼 LinkedIn: https://www.linkedin.com/in/altaf-shaikh-383811304
+
+📌 Aspiring Data Scientist | Skilled in SQL, Python, Machine Learning, and Data Visualization
 
 
 
